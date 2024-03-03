@@ -1,63 +1,49 @@
-# Sudheera Deshapriya's Portfolio Website
+# Multimedia Portfolio Website Documentation
 
-## Overview
+## Project Overview
 
-This repository contains the code for my personal portfolio website. The website showcases my skills, projects, and experiences in the field of IT(web deveopment,frontend development,data analyst....).
+The Multimedia Portfolio Website project is a personal showcase, meticulously crafted to exhibit a captivating online portfolio that spotlights my diverse multimedia skills, noteworthy accomplishments, and creative endeavors. Functioning as a dynamic platform, the website is tailored to offer visitors a glimpse into my various projects, delve into my personal background, and provide convenient avenues for connecting with me.
 
-## Features
+## Project Components
 
-- **About**: A section that introduces me and my journey in IT.
-- **Skill**: A comprehensive list of my technical and soft skills.
-- **Portfolio**: Detailed descriptions of the projects I've worked on, including the challenges faced and solutions implemented.
-- **Achievement**: Information about my academic background and achievements.
-- **Contact**: A section for visitors to leave messages or contact me directly.
+### HTML Files:
 
-## Technologies Used
+-   **index.html**: Main entry point to the website.
+-   **about.html**: Page containing information about the student.
+-   **portfolio.html**: Gallery showcasing multimedia projects.
+-   **contact.html**: Contact information and form for inquiries.
+-   **skill.html**: include skills and achivements.
 
-- HTML/CSS/JavaScript: For structuring and designing the website.
 
-## How to Run Locally
+### CSS Files:
 
-1. Clone the repository to your local machine using `git clone [https://sudasun007.github.io/sudasun007-portfolio/]`.
-2. Navigate to the project directory.
-3. Open `index.html` in your browser.
+-   **styles.css**: Styles for layout, typography, and colors.
+-   **responsive.css**: Styles for responsive design.
 
-##challenges
+### JavaScript File:
 
-"Developing my portfolio website has been a rewarding journey, but it has not been without its challenges. Here are some of the hurdles I've faced and how I've addressed them:
+-   **script.js**: Provides interactivity to the website, such as smooth scrolling and form validation.
 
-- **Design Decisions**: One of the biggest challenges was making design decisions. Choosing the right layout, color scheme, and typography to represent my personal brand was a tough task. I overcame this by researching design trends and seeking feedback from peers and mentors.
+### Image and Multimedia Files:
 
-- **Responsive Design**: Ensuring the website looks good and functions well on all devices was another challenge. I used responsive design techniques and tested the website on various devices to ensure a consistent user experience.
+-   **images/**: Directory containing images used throughout the website.
+-   **multimedia/**: Directory containing video files for showcasing projects.
 
-- **Performance Optimization**: Optimizing the website for speed was a complex task. I used various performance optimization techniques such as minifying CSS and JavaScript, optimizing images, and implementing lazy loading.
+### Other Files:
 
-- **Learning New Technologies**: As I wanted to use the latest technologies for my website, there was a learning curve involved. I took online courses and practiced a lot to get comfortable with these technologies.
+-   **resume.pdf**
 
-- **SEO Optimization**: Making the website SEO-friendly was another challenge. I learned about SEO techniques and implemented them to improve the website's visibility on search engines.
+### link File:
 
-- **Accessibility**: Ensuring the website is accessible to all users, including those with disabilities, was a challenge. I learned about web accessibility guidelines and incorporated them into my website.
-
-These challenges have been learning opportunities for me. They have helped me grow as a developer and have made the journey of creating my portfolio website even more rewarding." 
+-   **chat with chatGPT 3.5**- https://chat.openai.com/share/94480d17-4442-4024-b007-84c8807a08ca
+-   **gihub link**- https://sudasun007.github.io/-sudasun007_portfolio/
 
 ## Future Enhancements
 
-"Going forward, I plan to make some improvements to my portfolio website. I'm considering adding new sections like a blog or gallery to give more depth to my portfolio. The blog will be a space where I can share my ideas. And my work. Insights into the field, the gallery will visually showcase my projects or achievements.
+-   **Additional Features**: Explore potential additions to enhance the website's functionality.
+-   **Improvements**: Identify areas for improvement based on user feedback and testing results.
+-   **Maintenance**: Plan for regular updates and maintenance to keep the website relevant.
 
-I also plan to keep my website design fresh and attractive by updating it in line with current design trends. This may include changes to color schemes, typography, layout structures or the introduction of new design elements.
+## Conclusion
 
-Performance is another area I focus on. I understand that a website's functionality significantly affects the user experience, so I plan to improve my website's load times, optimize images or code, or implement lazy loading.
-
-As I continue to learn and grow in my field, I plan to incorporate new technologies or tools into my site. For example, I might implement a new JavaScript framework I learned, or use a new CSS technique I came across.
-
-Finally, I believe that my website is accessible to all users, including those with disabilities. I plan to improve keyboard navigation, ensure sufficient color contrast for visibility, add alt text to images for screen readers, and more.
-
-These are just a few examples of improvements I'm planning for my website. I will continue to evolve my portfolio site based on my goals and feedback from users. I look forward to this journey of continuous learning and improvement!
-
-## Contact Information
-
-For any questions or feedback, please feel free to reach out to me at newbornbaddash@gmail.com and sudheeradasun007@gmail.com.
-
-Thank you for visiting my portfolio website!
-
-chatGpt link: https://chat.openai.com/share/94480d17-4442-4024-b007-84c8807a08ca
+In conclusion, this multimedia portfolio website stands as a compelling testament to my skills and achievements. Its interactive elements and visually appealing design create a unique and effective platform for showcasing my multimedia expertise. Ongoing improvements and future enhancements are integral to ensuring that the website continues to be a valuable asset, contributing to the strength of my personal brand and supporting my professional endeavors.
